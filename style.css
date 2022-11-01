@@ -1,0 +1,33 @@
+#navbar {
+	margin: auto;
+	width: 85%;
+}
+
+#navbar ul {
+	list-style-type: none;
+	overflow:hidden;
+	margin:0;
+	padding:0;
+	background-color:#5384dc;
+}
+
+#navbar li {
+	float:left;
+}
+
+#navbar li a {
+	font-style: none;
+	display: block;
+	padding: 10px 20px 10px 20px;
+	background-color:#6495ed;
+	color:#dcdcdc;
+}
+
+#navbar li a:hover {
+	background-color:#3273cb;
+}
+
+#main {
+	margin:auto;
+	width: 82%;
+}
